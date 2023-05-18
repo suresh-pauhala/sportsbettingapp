@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sportsbettingapp/static/css/main.23ff8c31.css",
+    "main.js": "/sportsbettingapp/static/js/main.7d2b4c48.js",
+    "static/media/nba.jpg": "/sportsbettingapp/static/media/nba.0ac6796ece27b7ca1ba7.jpg",
+    "index.html": "/sportsbettingapp/index.html",
+    "main.23ff8c31.css.map": "/sportsbettingapp/static/css/main.23ff8c31.css.map",
+    "main.7d2b4c48.js.map": "/sportsbettingapp/static/js/main.7d2b4c48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ff8c31.css",
+    "static/js/main.7d2b4c48.js"
+  ]
+}
